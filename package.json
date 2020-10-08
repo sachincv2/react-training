@@ -1,0 +1,16 @@
+{
+  "name": "react-training",
+  "version": "15.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-addons-test-utils": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
